@@ -1,3 +1,8 @@
 .Punto1 {background-color:#c65cf4;}
 .Puntos {background-color:#eccbfa;}
-.Punto1 {
+.Punto1 {margin-bottom:0.8em;}
+.Punto1 {list-style:none;}
+.Puntos {list-style:none;}
+.Punto1 {margin:0px;}
+.Puntos {margin:0px;}
+.Horz {display: inline;}

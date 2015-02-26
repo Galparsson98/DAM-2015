@@ -1,0 +1,20 @@
+.centrado {text-align:center;}
+.derecha {text-align:right;}
+.Chiste1 {background-color:#8ce8c6;}
+.Chiste1 {border-bottom-style: dashed;}
+.Chiste1 {border-top-style: dashed;}
+.Chiste1 {border-left-style: dashed;}
+.Chiste1 {border-right-style: dashed;}
+.Chisteados {background-color:#f5f242;}
+.Chisteados {border-bottom-style:solid;}
+.Chisteados {border-top-style:solid;}
+.Chisteados {border-left-style:solid;}
+.Chisteados {border-right-style:solid;}
+.Chisteados {border-color:yellow;}
+.Chistetres {background-color:#f542bc;}
+.Chistetres {border-bottom-style:dotted;}
+.Chistetres {border-top-style:dotted;}
+.Chistetres {border-left-style:dotted;}
+.Chistetres {border-right-style:dotted;}
+.Chistetres {border-color:#181015;}
+.fondo {background-color:#e98d24;}

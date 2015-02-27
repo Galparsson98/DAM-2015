@@ -1,5 +1,5 @@
 .Header { text-align: center;}
-.menu {display: inline; position:relative; margin-bottom: 30%; background-color:#9da9fa;}
+.menu {display: inline; position:relative; margin-bottom: 30%; }
 .titulo {text-align: center;}
     .noticias {
 position: absolute;
@@ -14,3 +14,4 @@ ul {display: inline-block}
 .imagen {position: relative; margin-bottom: 23%;}
 .featured {position: absolute; margin-top: 88%; width:13%; text-align: justify;}
 .footer {position: absolute; margin-top: 153%;left:44%}
+.fondomenu {width: 8%; background-color:#9da9fa;}

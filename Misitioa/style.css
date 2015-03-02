@@ -3,15 +3,16 @@
 .titulo {text-align: center;}
     .noticias {
 position: absolute;
-margin-bottom: 56%;
+margin-bottom: 16%;
 left: 25px;
 top: -169px;
-text-align: justify;
+text-align: justify;s
         }
 .news {position: absolute; margin-left: 15%;}
 .ads {position:absolute; margin-top: 18%; width:13%; font-style:oblique}
 ul {display: inline-block}
 .imagen {position: relative; margin-bottom: 23%;}
 .featured {position: absolute; margin-top: 88%; width:13%; text-align: justify;}
-.footer {position: absolute; margin-top: 153%;left:44%}
+.footer {position: static; margin-top: 143%;left:64%}
 .fondomenu {width: 8%; background-color:#9da9fa;}
+.fondomenu {box-shadow: 10px 10px 4px #751}

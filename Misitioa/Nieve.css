@@ -43,8 +43,8 @@
         @webkit- keyframe name="nieve"
 {
             animation-fill-mode: both;
-            top: 1px;
-            bottom: 450px;
-            animation-delay:0, 0.6;
+            flow-from: top 1px;
+            flow-into:  bottom: 450px;
+
 
 }

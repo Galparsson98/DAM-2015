@@ -6,7 +6,7 @@
             width: 420px;
             height: 480px;
             position: relative;
-           -webkit- animation-direction:normal;
+           -webkit- animation-direction:normal; animation-iteration-count: infinite;animation-name:"nieve";
            -webkit- animation-timing-function: ease-in;
            -webkit- animation-duration: 1s;
 
@@ -15,21 +15,36 @@
             color: #fff;
             font-size: 2em;
             position: relative;
-            top: 1px;
-            bottom: 450px;
+
         }
         .snowflake.f1 {
             left: 40px;
+            top: 1px;
+            bottom: 450px;
         }
         .snowflake.f2 {
             font-size: 1.8em;
             left: 120px;
+            top: 1px;
+            bottom: 450px;
         }
         .snowflake.f3 {
             left: 200px;
+            top: 1px;
+            bottom: 450px;
         }
         .snowflake.f4 {
             font-size: 1.5em;
             left: 280px;
+            top: 1px;
+            bottom: 450px;
         }
         </style>
+        @webkit- keyframe name="nieve"
+{
+            animation-fill-mode: both;
+            top: 1px;
+            bottom: 450px;
+            animation-delay:0, 0.6;
+
+}

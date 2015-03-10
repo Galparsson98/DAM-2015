@@ -1,3 +1,9 @@
+"use strict";
+
+var APP = APP || {}
+window.onload {
+
+document.onblur{
 var nombre = document.getElementsByName("nombre");
     var Apell = document.getElementsByName("apellido");
 var email = document.getElementsByName("email");
@@ -9,4 +15,5 @@ var komen = document.getElementsByName("comentarios");
  }
 else
 console.log(nombre);
-
+}
+}

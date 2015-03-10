@@ -7,5 +7,9 @@ var contar=0
         if (numero[i].href = "http://prueba"){
             contar++;}
      }
- console.log (contar);
+console.log (contar)
+var zenb = document.getElementsByTagName("p");
+var tercer = zenb[2];
+var enlace = tercer.getElementsByTagName("a");
+console.log (enlace.length);
 

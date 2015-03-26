@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
+<<<<<<< HEAD
 <widget id="com.dam.mpr" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MPR</name>
+=======
+<widget id="com.dam.MPG" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Misapps</name>
+>>>>>>> Mikel/master
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>

@@ -52,6 +52,3 @@ var app = {
      var vibra= this.vibration;
 
      }
-
-
-

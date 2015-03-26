@@ -1,0 +1,14 @@
+CACHE MANIFEST
+index.html
+jquery-1.11.2.min(1).js
+Ejercicio8.js
+bos.png
+
+NETWORK:
+index.html
+
+FALLBACK:
+/main.py /index.html
+images/large/ images/offline.jpg
+*.html /offline.html
+
